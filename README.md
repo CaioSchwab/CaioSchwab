@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Caio Schwab</h1>
 <h3 align="center">unlock your potential!</h3>
+<hr>
 <img align="right" alt="Coding" width="400" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caioschwab&label=Profile%20views&color=0e75b6&style=flat" alt="caioschwab" /> </p>
