@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **caiomoitinho5@gmail.com**
 
-- ⚡ Fun fact **Gosto de desafios e aprendizado contínuo, então estou sempre buscando novas habilidades para adicionar ao meu repertório. 🌟📚**
+- ⚡ Fun fact **I enjoy challenges and continuous learning, so I'm always looking for new skills to add to my repertoire. 🌟📚**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
