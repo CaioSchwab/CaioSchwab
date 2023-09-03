@@ -10,7 +10,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CaioSchwab&show_icons=true&count_private=true&hide_border=true&title_color=6495ED&icon_color=6495ED&text_color=6495ED&bg_color=0d1117" alt="Caio Schwab github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSchwab&layout=compact&hide_border=true&title_color=6495ED&text_color=6495ED&bg_color=0d1117" />
+  <img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSchwab&layout=compact&hide_border=true&title_color=6495ED&text_color=6495ED&bg_color=0d1117" />
 </div>
 
 <div align="center"> 
